@@ -9,7 +9,7 @@ A dedicated and adaptable entry-level full-stack developer with a solid foundati
 [![](https://visitcount.itsvg.in/api?id=sreeraj-1122&icon=4&color=0)](https://visitcount.itsvg.in)
 
 * 🌍  I'm based in Kasaragod, Kerala
-* 🖥️  See my portfolio at [My portfolio](http://sreeraj-1122.github.io/portfolio/)
+* 🖥️  See my portfolio at [My portfolio](https://sreeraj.vercel.app/)
 * ✉️  You can contact me at [sreeraj2122@gmail.com](mailto:sreeraj2122@gmail.com)
 * 🚀  I'm currently working on [Weather Application](http://sreeraj-1122.github.io/weather-app/)
 * 🧠  I'm learning MERN stack development
