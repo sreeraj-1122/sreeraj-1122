@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm SREERAJ</h1>
 <h3 align="center">A passionate Fullstack developer from Kerala</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeraj-1122&label=Profile%20views&color=0e75b6&style=flat" alt="sreeraj-1122" /> </p>
 
 - 🔭 I’m currently working on **fullstack projects.**
 
@@ -14,3 +13,5 @@
 - 💬 Ask me about **MERN stack.**
 
 - 📫 How to reach me **sreeraj2122@gmail.com**
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sreeraj-1122&label=Profile%20views&color=0e75b6&style=flat" alt="sreeraj-1122" /> </p>
